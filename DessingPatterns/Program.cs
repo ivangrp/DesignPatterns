@@ -79,5 +79,10 @@
             Console.WriteLine($"{sq} has area {Area(sq)}");
         }
         #endregion
+
+        #region Interface Segregation Principle
+        // La idea es asegurarse de que las personas no paguen por cosas que no necesitan.
+
+        #endregion
     }
 }
